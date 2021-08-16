@@ -19,3 +19,4 @@ As a part of variable selection, I have passed all the variables, which i though
 **Model performance **
 
 I have used xgboost engine to predict the model. The cross-validation helped the model to try a different set of training and test data. After trying other model parameters, the model has chosen the number of variables randomly selected for the split(mtry) as 9, the number of trees as 400 and the depth of the tree as 7 to fit the best model. The model with the highest roc value has chosen as the best model.
+
