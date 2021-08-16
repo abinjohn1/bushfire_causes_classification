@@ -1,5 +1,5 @@
 
-**Predicting the cause of bushfires in the summer of 2019-2020 **
+#Predicting the cause of bushfires in the summer of 2019-2020 #
 
 This project is currently predicting the cause of bushfire's in the summer of 2019-2020. Four reasons are leading to the bushfires: accident, burning off, lightning, and arson. I have selected boosted tree method for the model.  
 
